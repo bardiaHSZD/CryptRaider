@@ -72,3 +72,22 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/__ExternalActors__/*/**
+Content/FirstPerson/Input/*
+Content/FirstPersonArms/Animations/*
+Content/FirstPersonArms/Character/*/**
+Content/__ExternalObjects__/FirstPerson/*/**
+Content/FirstPerson/Maps/*
+Content/FPWeapon/Audio/*
+Content/FPWeapon/Materials/*
+Content/FPWeapon/Mesh/*
+Content/FPWeapon/Textures/*
+Content/LevelPrototyping/Materials/*
+Content/LevelPrototyping/Meshes/*
+Content/LevelPrototyping/Textures/*
+Content/MedievalDungeon/Materials/*
+Content/MedievalDungeon/Meshes/*/**
+Content/MedievalDungeon/Particles/*/**
+Content/MedievalDungeon/Particles/*
+Content/MedievalDungeon/Textures/*
+Content/StarterContent/*/**
